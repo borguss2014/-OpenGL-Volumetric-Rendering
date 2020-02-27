@@ -1,2 +1,2 @@
 # -OpenGL-Volumetric-Rendering
-Project involving volumetric rendering of a DICOM CT scan (used as raw grayscale data in this case) with 3D texture slices blended together.
+Volume rendering of 109 DICOM CT scans (used as raw grayscale data in this case) as a single 3D texture (quad data is batched)
